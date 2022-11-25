@@ -53,7 +53,6 @@ Use the `Makefile` to get started.
 
 
 * [C](https://fr.wikipedia.org/wiki/C_(langage))
-* [CSFML](https://www.sfml-dev.org/download/csfml/index-fr.php)
 * [LINUX](https://fr.wikipedia.org/wiki/Linux)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
