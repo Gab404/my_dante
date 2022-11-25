@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">My Runner</h3>
+  <h3 align="center">My Dante</h3>
 
   <p align="center">
     Maze generation and resolution algorithm.
@@ -45,9 +45,6 @@ Maze composed by 'X' for walls and '*'
 
 Use the `Makefile` to get started.
 
-`./generator/generator [width] [height]` to generate maze
-`./solver/solver [maze_path_file]` to resolve maze
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -65,13 +62,13 @@ Use the `Makefile` to get started.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To start:
+To generate:
 
-      ./my_runner [map filpeath]
+      ./generator/generator [width] [height]
 
-Help:
+To solve:
 
-      ./my_runner -h
+      ./solver/solver [maze_path_file]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
